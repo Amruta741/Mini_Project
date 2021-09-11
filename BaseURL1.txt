@@ -1,0 +1,9 @@
+//Base URL
+AmazonURl : https://www.amazon.in/
+
+//Username
+AmazonUname : moreamruta8518@gmail.com
+
+//Password
+AmazonPass : more@amruta
+
